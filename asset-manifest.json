@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Wiki/static/js/main.c4b12bb6.js",
+    "static/media/logo.png": "/Wiki/static/media/logo.4d74fd76ac168df7723c.png",
+    "index.html": "/Wiki/index.html",
+    "main.c4b12bb6.js.map": "/Wiki/static/js/main.c4b12bb6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4b12bb6.js"
+  ]
+}
